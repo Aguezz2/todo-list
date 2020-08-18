@@ -1,2 +1,3 @@
-# todo-list
-It is a repository for testing
+# Todo List
+
+It is a simple testing repository
